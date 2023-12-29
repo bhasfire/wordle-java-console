@@ -3,7 +3,7 @@
 ## Description
 This is a Java-based implementation of the popular Wordle game, designed to be played in the console. It's an exercise in writing Java classes and creating a modular and scalable program. The game follows the classic Wordle mechanics with a command-line twist.  
 *Developer: Boris He*   
-*Date: 2/7/23*
+*Date Published: 2/7/23*
 
 ## How to Play
 - The game selects a secret word from a loaded dictionary, based on a configured word length.
